@@ -6,15 +6,7 @@
 
 ---
 
-## 💼 Projets phares
-
-### 📊 [EvalLLM - Data Warehouse](https://github.com/AsmaeIdrissi/EvalLLM-DataWarehouse)
-> Entrepôt de données et tableaux de bord Power BI pour évaluer les performances des modèles LLM.
-
-### 🔍 [Price Tracker - Comparateur e-commerce](https://github.com/AsmaeIdrissi/price-tracker)
-> Système complet de scraping, matching et visualisation des prix entre AliExpress, Marjane, Electroplanet et Jumia.
-
----
+ 
 
 ## 🛠️ Stack technique
 
